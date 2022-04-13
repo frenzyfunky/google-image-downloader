@@ -31,6 +31,7 @@ using (var client = new HttpClient())
             {
                 language_code = "en",
                 location_code = "2840",
+                max_crawl_pages = "1",
                 keyword = searchTerm
             });
 
