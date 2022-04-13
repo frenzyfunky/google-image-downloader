@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleSearchApiDownloader", "GoogleSearchApiDownloader\GoogleSearchApiDownloader.csproj", "{904B12B9-7CEB-42A4-B7E3-A9765811B616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerpApiImageDownloader", "SerpApiImageDownloader\SerpApiImageDownloader.csproj", "{A40BBBBC-EE23-4978-AE70-9E434219B480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerpApiImageDownloader", "SerpApiImageDownloader\SerpApiImageDownloader.csproj", "{A40BBBBC-EE23-4978-AE70-9E434219B480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataForSeoImageDownloader", "DataForSeoImageDownloader\DataForSeoImageDownloader.csproj", "{048FD680-5428-4A09-988B-5147B966585C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A40BBBBC-EE23-4978-AE70-9E434219B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A40BBBBC-EE23-4978-AE70-9E434219B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A40BBBBC-EE23-4978-AE70-9E434219B480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048FD680-5428-4A09-988B-5147B966585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048FD680-5428-4A09-988B-5147B966585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048FD680-5428-4A09-988B-5147B966585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048FD680-5428-4A09-988B-5147B966585C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
